@@ -5,6 +5,41 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>90603053-BCE1-4A9F-A042-A22504488F00</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>90603053-BCE1-4A9F-A042-A22504488F00.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GroceryListCoreDataRedone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GroceryListCoreDataRedone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GroceryListCoreDataRedone</string>
+			<key>timeStartedRecording</key>
+			<real>614492209.52604902</real>
+			<key>timeStoppedRecording</key>
+			<real>614492213.04968297</real>
+			<key>title</key>
+			<string>Build GroceryListCoreDataRedone</string>
+			<key>uniqueIdentifier</key>
+			<string>90603053-BCE1-4A9F-A042-A22504488F00</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
