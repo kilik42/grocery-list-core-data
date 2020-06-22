@@ -1,8 +1,8 @@
 version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
 options: "f33b09c3680f470935c5d24fc6e55bf8"
-build_time: [1592797705, 243144000]
+build_time: [1592836328, 520439000]
 inputs:
   "/Users/marvinevins/Library/Autosave Information/GroceryListCoreDataRedone/GroceryListCoreDataRedone/ViewController.swift": [1592778428, 423999070]
-  "/Users/marvinevins/Library/Autosave Information/GroceryListCoreDataRedone/GroceryListCoreDataRedone/GroceryListTableViewController.swift": [1592797701, 543737736]
+  "/Users/marvinevins/Library/Autosave Information/GroceryListCoreDataRedone/GroceryListCoreDataRedone/GroceryListTableViewController.swift": !dirty [1592836327, 259282833]
   "/Users/marvinevins/Library/Autosave Information/GroceryListCoreDataRedone/GroceryListCoreDataRedone/AppDelegate.swift": [1592781669, 79329997]
   "/Users/marvinevins/Library/Autosave Information/GroceryListCoreDataRedone/GroceryListCoreDataRedone/SceneDelegate.swift": [1592778428, 422199133]

@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>D0FDC0E4-1040-48AC-89E4-D4C772F1ACE2</key>
+		<key>4FEDC3B9-B03A-497E-B180-463F93709B22</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>D0FDC0E4-1040-48AC-89E4-D4C772F1ACE2.xcactivitylog</string>
+			<string>4FEDC3B9-B03A-497E-B180-463F93709B22.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,13 +32,47 @@
 			<key>signature</key>
 			<string>Run GroceryListCoreDataRedone</string>
 			<key>timeStartedRecording</key>
-			<real>614492213.06939101</real>
+			<real>614493849.53967595</real>
 			<key>timeStoppedRecording</key>
-			<real>614492249.11653602</real>
+			<real>614493962.40251899</real>
 			<key>title</key>
 			<string>Run GroceryListCoreDataRedone</string>
 			<key>uniqueIdentifier</key>
-			<string>D0FDC0E4-1040-48AC-89E4-D4C772F1ACE2</string>
+			<string>4FEDC3B9-B03A-497E-B180-463F93709B22</string>
+		</dict>
+		<key>9464A071-9772-4B80-BC7D-2DFA1F33EB5B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9464A071-9772-4B80-BC7D-2DFA1F33EB5B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GroceryListCoreDataRedone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GroceryListCoreDataRedone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run GroceryListCoreDataRedone</string>
+			<key>timeStartedRecording</key>
+			<real>614529170.30418396</real>
+			<key>timeStoppedRecording</key>
+			<real>614529206.08099794</real>
+			<key>title</key>
+			<string>Run GroceryListCoreDataRedone</string>
+			<key>uniqueIdentifier</key>
+			<string>9464A071-9772-4B80-BC7D-2DFA1F33EB5B</string>
 		</dict>
 	</dict>
 </dict>

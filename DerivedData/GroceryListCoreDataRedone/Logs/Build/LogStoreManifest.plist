@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>90603053-BCE1-4A9F-A042-A22504488F00</key>
+		<key>2283E1E0-6BCD-47D7-9ED6-37C87695B83D</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>90603053-BCE1-4A9F-A042-A22504488F00.xcactivitylog</string>
+			<string>2283E1E0-6BCD-47D7-9ED6-37C87695B83D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,13 +32,285 @@
 			<key>signature</key>
 			<string>Build GroceryListCoreDataRedone</string>
 			<key>timeStartedRecording</key>
-			<real>614492209.52604902</real>
+			<real>614493847.751091</real>
 			<key>timeStoppedRecording</key>
-			<real>614492213.04968297</real>
+			<real>614493849.53597498</real>
 			<key>title</key>
 			<string>Build GroceryListCoreDataRedone</string>
 			<key>uniqueIdentifier</key>
-			<string>90603053-BCE1-4A9F-A042-A22504488F00</string>
+			<string>2283E1E0-6BCD-47D7-9ED6-37C87695B83D</string>
+		</dict>
+		<key>3B21E38F-E0D5-424E-8AD4-160804C2CE8A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3B21E38F-E0D5-424E-8AD4-160804C2CE8A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GroceryListCoreDataRedone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GroceryListCoreDataRedone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GroceryListCoreDataRedone</string>
+			<key>timeStartedRecording</key>
+			<real>614528568.43249094</real>
+			<key>timeStoppedRecording</key>
+			<real>614528568.53036499</real>
+			<key>title</key>
+			<string>Build GroceryListCoreDataRedone</string>
+			<key>uniqueIdentifier</key>
+			<string>3B21E38F-E0D5-424E-8AD4-160804C2CE8A</string>
+		</dict>
+		<key>703FC1D9-C454-44DC-87CD-EF81C3378796</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>703FC1D9-C454-44DC-87CD-EF81C3378796.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GroceryListCoreDataRedone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GroceryListCoreDataRedone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GroceryListCoreDataRedone</string>
+			<key>timeStartedRecording</key>
+			<real>614529165.22754598</real>
+			<key>timeStoppedRecording</key>
+			<real>614529167.47570002</real>
+			<key>title</key>
+			<string>Build GroceryListCoreDataRedone</string>
+			<key>uniqueIdentifier</key>
+			<string>703FC1D9-C454-44DC-87CD-EF81C3378796</string>
+		</dict>
+		<key>71935D12-3417-41A7-83A7-980EA324C3C3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>71935D12-3417-41A7-83A7-980EA324C3C3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GroceryListCoreDataRedone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GroceryListCoreDataRedone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GroceryListCoreDataRedone</string>
+			<key>timeStartedRecording</key>
+			<real>614528621.16736698</real>
+			<key>timeStoppedRecording</key>
+			<real>614528621.20009899</real>
+			<key>title</key>
+			<string>Build GroceryListCoreDataRedone</string>
+			<key>uniqueIdentifier</key>
+			<string>71935D12-3417-41A7-83A7-980EA324C3C3</string>
+		</dict>
+		<key>A04053B8-A58A-4B29-9E34-3366C14E617A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A04053B8-A58A-4B29-9E34-3366C14E617A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GroceryListCoreDataRedone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GroceryListCoreDataRedone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GroceryListCoreDataRedone</string>
+			<key>timeStartedRecording</key>
+			<real>614529170.24917698</real>
+			<key>timeStoppedRecording</key>
+			<real>614529170.27938902</real>
+			<key>title</key>
+			<string>Build GroceryListCoreDataRedone</string>
+			<key>uniqueIdentifier</key>
+			<string>A04053B8-A58A-4B29-9E34-3366C14E617A</string>
+		</dict>
+		<key>B927FED1-345A-4371-BDC3-89470182F84B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B927FED1-345A-4371-BDC3-89470182F84B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GroceryListCoreDataRedone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GroceryListCoreDataRedone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GroceryListCoreDataRedone</string>
+			<key>timeStartedRecording</key>
+			<real>614529128.492746</real>
+			<key>timeStoppedRecording</key>
+			<real>614529128.94668698</real>
+			<key>title</key>
+			<string>Build GroceryListCoreDataRedone</string>
+			<key>uniqueIdentifier</key>
+			<string>B927FED1-345A-4371-BDC3-89470182F84B</string>
+		</dict>
+		<key>D088FF92-DA9A-4B0A-B535-E8111DACF7B7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D088FF92-DA9A-4B0A-B535-E8111DACF7B7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GroceryListCoreDataRedone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GroceryListCoreDataRedone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GroceryListCoreDataRedone</string>
+			<key>timeStartedRecording</key>
+			<real>614529125.44319797</real>
+			<key>timeStoppedRecording</key>
+			<real>614529125.95725703</real>
+			<key>title</key>
+			<string>Build GroceryListCoreDataRedone</string>
+			<key>uniqueIdentifier</key>
+			<string>D088FF92-DA9A-4B0A-B535-E8111DACF7B7</string>
+		</dict>
+		<key>DFAD446E-5072-4063-9B02-239B74744F6F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DFAD446E-5072-4063-9B02-239B74744F6F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GroceryListCoreDataRedone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GroceryListCoreDataRedone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GroceryListCoreDataRedone</string>
+			<key>timeStartedRecording</key>
+			<real>614529076.70546997</real>
+			<key>timeStoppedRecording</key>
+			<real>614529077.67798102</real>
+			<key>title</key>
+			<string>Build GroceryListCoreDataRedone</string>
+			<key>uniqueIdentifier</key>
+			<string>DFAD446E-5072-4063-9B02-239B74744F6F</string>
+		</dict>
+		<key>FCBCCCDB-D287-47CA-90B8-041893FA01AD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FCBCCCDB-D287-47CA-90B8-041893FA01AD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GroceryListCoreDataRedone project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GroceryListCoreDataRedone</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build GroceryListCoreDataRedone</string>
+			<key>timeStartedRecording</key>
+			<real>614529090.92560804</real>
+			<key>timeStoppedRecording</key>
+			<real>614529091.29751003</real>
+			<key>title</key>
+			<string>Build GroceryListCoreDataRedone</string>
+			<key>uniqueIdentifier</key>
+			<string>FCBCCCDB-D287-47CA-90B8-041893FA01AD</string>
 		</dict>
 	</dict>
 </dict>

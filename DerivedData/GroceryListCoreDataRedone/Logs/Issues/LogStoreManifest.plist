@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>2F4070CC-F833-4E88-8434-E1DAD8270741</key>
+		<key>1B77557C-9DB7-4A58-8AB5-8B47F9EBA696</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>2F4070CC-F833-4E88-8434-E1DAD8270741.xcactivitylog</string>
+			<string>1B77557C-9DB7-4A58-8AB5-8B47F9EBA696.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,13 @@
 			<key>signature</key>
 			<string>GroceryListCoreDataRedone-cuwguvputzdxdigtqfcexjsjhxid</string>
 			<key>timeStartedRecording</key>
-			<real>614492209.59366703</real>
+			<real>614529165.24886</real>
 			<key>timeStoppedRecording</key>
-			<real>614492213.04333603</real>
+			<real>614529167.46854496</real>
 			<key>title</key>
 			<string>Build target GroceryListCoreDataRedone</string>
 			<key>uniqueIdentifier</key>
-			<string>2F4070CC-F833-4E88-8434-E1DAD8270741</string>
+			<string>1B77557C-9DB7-4A58-8AB5-8B47F9EBA696</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
